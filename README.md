@@ -25,7 +25,7 @@ The goal of this Module is for you to learn about the closest pair problem, how 
 </em>
 </p>
 
-### Module 4 - Dynamic programming and applications to sequence alignment and edit distances
+#### Module 4 - Dynamic programming and applications to sequence alignment and edit distances
 <p>
 <em>
 .
